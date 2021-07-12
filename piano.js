@@ -30,6 +30,6 @@ function playNote(key){
 		break;
 
 	}
-	var audio=new Audio('/xylophone/sounds/note'+audioNote+'.wav');
+	var audio=new Audio('/note'+audioNote+'.wav');
 	audio.play();
 };
