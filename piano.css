@@ -1,0 +1,28 @@
+.violet{
+	background: violet;
+}
+.indigo{
+	background: indigo;
+}
+.blue{
+	background: blue;
+}
+.green{
+	background: green;
+}
+.yellow{
+	background: yellow;
+}
+.orange{
+	background: orange;
+}
+.red{
+	background: red;
+}
+.col{
+	height: 100vh;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+	padding-top: 5px; 
+}
